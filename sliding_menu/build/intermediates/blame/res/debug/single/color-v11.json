@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\svn\\trunk\\smartbeijing\\sliding_menu\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\svn\\trunk\\smartbeijing\\sliding_menu\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\svn\\trunk\\smartbeijing\\sliding_menu\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\svn\\trunk\\smartbeijing\\sliding_menu\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]
